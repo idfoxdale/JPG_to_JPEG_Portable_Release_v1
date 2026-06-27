@@ -1,8 +1,5 @@
 JPG -> JPEG Smart Renamer Portable
 
-Run:
-After publishing, double-click Start-Renamer.bat or JPG_to_JPEG_Portable.exe.
-
 Build:
 dotnet publish -c Release
 
